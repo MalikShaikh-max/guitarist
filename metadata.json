@@ -1,0 +1,6 @@
+{
+  "name": "FretFlow - Learn Guitar Step by Step",
+  "description": "An interactive guitar learning platform featuring a playable fretboard, acoustic audio synthesizer, chord library, strumming rhythm engine, tuner, and guided beginner curriculum.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
